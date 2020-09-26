@@ -1,0 +1,10 @@
+free delivery criteria = if location is <= 5,
+                         if location is <=10 && have an active membership,
+
+not eligible criteria = if location is <= 1    not eligible for free delivery
+
+
+inputs needed = How many miles are you away from our store?
+                Do you have an active membership?
+
+inputs of both needed before script continuation, else invalid input
